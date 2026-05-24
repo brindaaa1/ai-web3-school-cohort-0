@@ -1,7 +1,7 @@
 ## 目录
 - [整理 AI 基础概念卡片](#task-ai-向任务整理-ai-基础概念卡片)
 - [AI 时代的 Web3 架构能力](#task-线上活动实时参加-518ai-时代的-web3-架构能力)
-- [Open Agentic Economy](#task-线上活动-观看回放-5.23-Open-Agentic-Economy)
+- [Open Agentic Economy](#task-线上活动观看回放-523open-agentic-economy)
 ## Task: AI 向任务｜整理 AI 基础概念卡片
 
 #### Agent
