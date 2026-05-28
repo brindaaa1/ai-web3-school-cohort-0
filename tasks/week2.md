@@ -1,6 +1,6 @@
 ## 目录
 - [线上活动｜观看回放 5.25｜Long-term Memory for AI Agents：如何让 Agent 拥有持续上下文与长期一致性](#long-term-memory-for-ai-agents)
-- [Web3 向进阶｜比较 EOA、智能账户、多签的权限差异](#eoa-vs-智能账户-vs-多签账户：权限与安全边界对比)
+- [Web3 向进阶｜比较 EOA、智能账户、多签的权限差异](#eoa-vs-智能账户-vs-多签账户-权限与安全边界对比)
 ---
 
 ## Long-term Memory for AI Agents
